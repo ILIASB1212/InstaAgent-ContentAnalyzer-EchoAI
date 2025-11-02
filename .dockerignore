@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+# Ignore environment files containing secrets
+.env
+
+# Ignore local virtual environment directories
+.venv/
+venv/
+env/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# Ignore Streamlit's local configuration or cache
+.streamlit/
